@@ -12,7 +12,7 @@ window.PORTFOLIO = {
     { label: "GitHub", url: "https://github.com/ahmetkamac16", icon: "github" },
     {
       label: "LinkedIn",
-      url: "https://www.linkedin.com/in/ahmet-kama%C3%A7-5a17923a0/",
+      url: "www.linkedin.com/in/ahmetkamac",
       icon: "linkedin"
     },
     { label: "X", url: "https://x.com/kamac16_", icon: "x" }
