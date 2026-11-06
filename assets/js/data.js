@@ -20,8 +20,8 @@ window.PORTFOLIO = {
   hero: {
     greeting: { tr: "Merhaba, ben", en: "Hi, I'm" },
     roles: {
-      tr: [".NET Backend Geliştirici", "Full Stack Geliştirici", "Temiz Mimari"],
-      en: [".NET Backend Developer", "Full Stack Developer", "Clean Architecture"]
+      tr: [".NET Backend Geliştirici", "Full Stack Geliştirici"],
+      en: [".NET Backend Developer", "Full Stack Developer"]
     },
     tagline: {
       tr: "Backend odaklı bir yaklaşımla modern, ölçeklenebilir web, mobil ve otomasyon sistemleri geliştiriyorum. Özellikle MES ve ERP gibi kurumsal yazılım çözümlerine ilgi duyuyorum.",
